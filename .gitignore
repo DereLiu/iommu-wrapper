@@ -1,0 +1,4 @@
+src/main/resources/vsrc_backup_before_submodule/
+src/main/resources/vsrc_old/
+*.tmp
+*.bak
